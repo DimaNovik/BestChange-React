@@ -1,0 +1,3999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rates>
+                                        <item>
+                    <from>PMUSD</from>
+                    <to>SBERRUB</to>
+                    <in>1</in>
+                    <out>58.4458</out>
+                    <amount>179644.9311</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMUSD</from>
+                    <to>ACRUB</to>
+                    <in>1</in>
+                    <out>58.0234</out>
+                    <amount>975069.86</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMUSD</from>
+                    <to>TBRUB</to>
+                    <in>1</in>
+                    <out>58.5009</out>
+                    <amount>403493.57</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMUSD</from>
+                    <to>BNBRUB</to>
+                    <in>1</in>
+                    <out>59.6325</out>
+                    <amount>87711.7328</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMUSD</from>
+                    <to>TCSBRUB</to>
+                    <in>1</in>
+                    <out>57.146</out>
+                    <amount>351796.33</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMUSD</from>
+                    <to>QWRUB</to>
+                    <in>1</in>
+                    <out>59.6275</out>
+                    <amount>157363.3948</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMUSD</from>
+                    <to>BTC</to>
+                    <in>8064.433</in>
+                    <out>1</out>
+                    <amount>4.0774</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMUSD</from>
+                    <to>WEXUSD</to>
+                    <in>1</in>
+                    <out>0.9819</out>
+                    <amount>263.82</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMUSD</from>
+                    <to>YAMRUB</to>
+                    <in>1</in>
+                    <out>59.9908</out>
+                    <amount>446732.4352</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMUSD</from>
+                    <to>PRUSD</to>
+                    <in>1</in>
+                    <out>0.9905</out>
+                    <amount>9386.6949</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMVUSD</from>
+                    <to>SBERRUB</to>
+                    <in>1</in>
+                    <out>58.4458</out>
+                    <amount>179644.9311</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMVUSD</from>
+                    <to>ACRUB</to>
+                    <in>1</in>
+                    <out>58.0234</out>
+                    <amount>975069.86</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMVUSD</from>
+                    <to>TBRUB</to>
+                    <in>1</in>
+                    <out>58.5009</out>
+                    <amount>403493.57</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMVUSD</from>
+                    <to>BNBRUB</to>
+                    <in>1</in>
+                    <out>59.6325</out>
+                    <amount>87711.7328</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMVUSD</from>
+                    <to>TCSBRUB</to>
+                    <in>1</in>
+                    <out>57.146</out>
+                    <amount>351796.33</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMVUSD</from>
+                    <to>QWRUB</to>
+                    <in>1</in>
+                    <out>59.6275</out>
+                    <amount>157363.3948</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMVUSD</from>
+                    <to>BTC</to>
+                    <in>8064.433</in>
+                    <out>1</out>
+                    <amount>4.0774</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMVUSD</from>
+                    <to>WEXUSD</to>
+                    <in>1</in>
+                    <out>0.9819</out>
+                    <amount>263.82</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMVUSD</from>
+                    <to>YAMRUB</to>
+                    <in>1</in>
+                    <out>59.9908</out>
+                    <amount>446732.4352</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMVUSD</from>
+                    <to>PRUSD</to>
+                    <in>1</in>
+                    <out>0.9905</out>
+                    <amount>9386.6949</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>SBERRUB</from>
+                    <to>PMUSD</to>
+                    <in>61.6523</in>
+                    <out>1</out>
+                    <amount>23870.8115</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>SBERRUB</from>
+                    <to>PMVUSD</to>
+                    <in>61.6523</in>
+                    <out>1</out>
+                    <amount>23870.81155</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>SBERRUB</from>
+                    <to>QWRUB</to>
+                    <in>1</in>
+                    <out>0.998</out>
+                    <amount>157363.3948</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>SBERRUB</from>
+                    <to>BTC</to>
+                    <in>490379.987</in>
+                    <out>1</out>
+                    <amount>4.0774</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>SBERRUB</from>
+                    <to>WEXUSD</to>
+                    <in>60.9597</in>
+                    <out>1</out>
+                    <amount>263.82</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>SBERRUB</from>
+                    <to>YAMRUB</to>
+                    <in>1</in>
+                    <out>1.0009</out>
+                    <amount>446732.4352</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>SBERRUB</from>
+                    <to>PRUSD</to>
+                    <in>61.8313</in>
+                    <out>1</out>
+                    <amount>9386.6949</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ACRUB</from>
+                    <to>PMUSD</to>
+                    <in>62.247</in>
+                    <out>1</out>
+                    <amount>23870.8115</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ACRUB</from>
+                    <to>PMVUSD</to>
+                    <in>62.247</in>
+                    <out>1</out>
+                    <amount>23870.81155</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ACRUB</from>
+                    <to>QWRUB</to>
+                    <in>1</in>
+                    <out>0.994</out>
+                    <amount>157363.3948</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ACRUB</from>
+                    <to>BTC</to>
+                    <in>513399.836</in>
+                    <out>1</out>
+                    <amount>4.0774</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ACRUB</from>
+                    <to>WEXUSD</to>
+                    <in>61.8999</in>
+                    <out>1</out>
+                    <amount>263.82</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ACRUB</from>
+                    <to>YAMRUB</to>
+                    <in>1</in>
+                    <out>0.996</out>
+                    <amount>446732.4352</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ACRUB</from>
+                    <to>PRUSD</to>
+                    <in>61.7576</in>
+                    <out>1</out>
+                    <amount>9386.6949</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>TBRUB</from>
+                    <to>PMUSD</to>
+                    <in>61.796</in>
+                    <out>1</out>
+                    <amount>23870.8115</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>TBRUB</from>
+                    <to>PMVUSD</to>
+                    <in>61.796</in>
+                    <out>1</out>
+                    <amount>23870.81155</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>TBRUB</from>
+                    <to>QWRUB</to>
+                    <in>1</in>
+                    <out>0.9993</out>
+                    <amount>157363.3948</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>TBRUB</from>
+                    <to>BTC</to>
+                    <in>516295.398</in>
+                    <out>1</out>
+                    <amount>4.0774</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>TBRUB</from>
+                    <to>WEXUSD</to>
+                    <in>61.8108</in>
+                    <out>1</out>
+                    <amount>263.82</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>TBRUB</from>
+                    <to>YAMRUB</to>
+                    <in>1</in>
+                    <out>0.9971</out>
+                    <amount>446732.4352</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>TBRUB</from>
+                    <to>PRUSD</to>
+                    <in>61.6544</in>
+                    <out>1</out>
+                    <amount>9386.6949</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                                                                                                                                                                                <item>
+                    <from>TCSBRUB</from>
+                    <to>PMUSD</to>
+                    <in>61.766</in>
+                    <out>1</out>
+                    <amount>23870.8115</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>TCSBRUB</from>
+                    <to>PMVUSD</to>
+                    <in>61.766</in>
+                    <out>1</out>
+                    <amount>23870.81155</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>TCSBRUB</from>
+                    <to>QWRUB</to>
+                    <in>1</in>
+                    <out>1.0009</out>
+                    <amount>157363.3948</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>TCSBRUB</from>
+                    <to>BTC</to>
+                    <in>514117.39</in>
+                    <out>1</out>
+                    <amount>4.0774</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>TCSBRUB</from>
+                    <to>WEXUSD</to>
+                    <in>62.5185</in>
+                    <out>1</out>
+                    <amount>263.82</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>TCSBRUB</from>
+                    <to>YAMRUB</to>
+                    <in>1</in>
+                    <out>1.0009</out>
+                    <amount>446732.4352</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>TCSBRUB</from>
+                    <to>PRUSD</to>
+                    <in>61.2462</in>
+                    <out>1</out>
+                    <amount>9386.6949</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>QWRUB</from>
+                    <to>PMUSD</to>
+                    <in>63.0268</in>
+                    <out>1</out>
+                    <amount>23870.8115</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>QWRUB</from>
+                    <to>PMVUSD</to>
+                    <in>63.0268</in>
+                    <out>1</out>
+                    <amount>23870.81155</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>QWRUB</from>
+                    <to>SBERRUB</to>
+                    <in>1</in>
+                    <out>0.928</out>
+                    <amount>179644.9311</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>QWRUB</from>
+                    <to>ACRUB</to>
+                    <in>1</in>
+                    <out>0.9426</out>
+                    <amount>975069.86</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>QWRUB</from>
+                    <to>TBRUB</to>
+                    <in>1</in>
+                    <out>0.9364</out>
+                    <amount>403493.57</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>QWRUB</from>
+                    <to>BNBRUB</to>
+                    <in>1</in>
+                    <out>1</out>
+                    <amount>87711.7328</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>QWRUB</from>
+                    <to>TCSBRUB</to>
+                    <in>1</in>
+                    <out>0.9488</out>
+                    <amount>351796.33</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>QWRUB</from>
+                    <to>BTC</to>
+                    <in>512831.299</in>
+                    <out>1</out>
+                    <amount>4.0774</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>QWRUB</from>
+                    <to>WEXUSD</to>
+                    <in>62.9313</in>
+                    <out>1</out>
+                    <amount>263.82</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>QWRUB</from>
+                    <to>YAMRUB</to>
+                    <in>1</in>
+                    <out>0.9811</out>
+                    <amount>446732.4352</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>QWRUB</from>
+                    <to>PRUSD</to>
+                    <in>63.4143</in>
+                    <out>1</out>
+                    <amount>9386.6949</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>BTC</from>
+                    <to>PMUSD</to>
+                    <in>1</in>
+                    <out>7633.6284</out>
+                    <amount>23870.8115</amount>
+                    <minamount>0.005 BTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>BTC</from>
+                    <to>PMVUSD</to>
+                    <in>1</in>
+                    <out>7633.6284</out>
+                    <amount>23870.81155</amount>
+                    <minamount>0.005 BTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>BTC</from>
+                    <to>SBERRUB</to>
+                    <in>1</in>
+                    <out>431705.0632</out>
+                    <amount>179644.9311</amount>
+                    <minamount>0.005 BTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>BTC</from>
+                    <to>ACRUB</to>
+                    <in>1</in>
+                    <out>436656.5221</out>
+                    <amount>975069.86</amount>
+                    <minamount>0.005 BTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>BTC</from>
+                    <to>TBRUB</to>
+                    <in>1</in>
+                    <out>434834.4208</out>
+                    <amount>403493.57</amount>
+                    <minamount>0.005 BTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>BTC</from>
+                    <to>BNBRUB</to>
+                    <in>1</in>
+                    <out>435500.99</out>
+                    <amount>87711.7328</amount>
+                    <minamount>0.005 BTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>BTC</from>
+                    <to>TCSBRUB</to>
+                    <in>1</in>
+                    <out>434931.8163</out>
+                    <amount>351796.33</amount>
+                    <minamount>0.005 BTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>BTC</from>
+                    <to>QWRUB</to>
+                    <in>1</in>
+                    <out>438444.441</out>
+                    <amount>157363.3948</amount>
+                    <minamount>0.005 BTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>BTC</from>
+                    <to>WEXUSD</to>
+                    <in>1</in>
+                    <out>7621.377</out>
+                    <amount>263.82</amount>
+                    <minamount>0.005 BTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>BTC</from>
+                    <to>YAMRUB</to>
+                    <in>1</in>
+                    <out>450483.7918</out>
+                    <amount>446732.4352</amount>
+                    <minamount>0.005 BTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>BTC</from>
+                    <to>PRUSD</to>
+                    <in>1</in>
+                    <out>7599.0933</out>
+                    <amount>9386.6949</amount>
+                    <minamount>0.005 BTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXUSD</from>
+                    <to>PMUSD</to>
+                    <in>1</in>
+                    <out>0.9814</out>
+                    <amount>23870.8115</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXUSD</from>
+                    <to>PMVUSD</to>
+                    <in>1</in>
+                    <out>0.9814</out>
+                    <amount>23870.81155</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXUSD</from>
+                    <to>SBERRUB</to>
+                    <in>1</in>
+                    <out>57.4065</out>
+                    <amount>179644.9311</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXUSD</from>
+                    <to>ACRUB</to>
+                    <in>1</in>
+                    <out>57.1891</out>
+                    <amount>975069.86</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXUSD</from>
+                    <to>TBRUB</to>
+                    <in>1</in>
+                    <out>57.9076</out>
+                    <amount>403493.57</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXUSD</from>
+                    <to>BNBRUB</to>
+                    <in>1</in>
+                    <out>59.6325</out>
+                    <amount>87711.7328</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXUSD</from>
+                    <to>TCSBRUB</to>
+                    <in>1</in>
+                    <out>57.0416</out>
+                    <amount>351796.33</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXUSD</from>
+                    <to>QWRUB</to>
+                    <in>1</in>
+                    <out>58.4408</out>
+                    <amount>157363.3948</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXUSD</from>
+                    <to>BTC</to>
+                    <in>8184.1048</in>
+                    <out>1</out>
+                    <amount>4.0774</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXUSD</from>
+                    <to>YAMRUB</to>
+                    <in>1</in>
+                    <out>57.1497</out>
+                    <amount>446732.4352</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXUSD</from>
+                    <to>PRUSD</to>
+                    <in>1</in>
+                    <out>0.951</out>
+                    <amount>9386.6949</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>YAMRUB</from>
+                    <to>PMUSD</to>
+                    <in>61.8314</in>
+                    <out>1</out>
+                    <amount>23870.8115</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>YAMRUB</from>
+                    <to>PMVUSD</to>
+                    <in>61.8314</in>
+                    <out>1</out>
+                    <amount>23870.81155</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>YAMRUB</from>
+                    <to>SBERRUB</to>
+                    <in>1</in>
+                    <out>0.9458</out>
+                    <amount>179644.9311</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>YAMRUB</from>
+                    <to>ACRUB</to>
+                    <in>1</in>
+                    <out>0.9609</out>
+                    <amount>975069.86</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>YAMRUB</from>
+                    <to>TBRUB</to>
+                    <in>1</in>
+                    <out>0.9484</out>
+                    <amount>403493.57</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>YAMRUB</from>
+                    <to>BNBRUB</to>
+                    <in>1</in>
+                    <out>1</out>
+                    <amount>87711.7328</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>YAMRUB</from>
+                    <to>TCSBRUB</to>
+                    <in>1</in>
+                    <out>0.9484</out>
+                    <amount>351796.33</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>YAMRUB</from>
+                    <to>QWRUB</to>
+                    <in>1</in>
+                    <out>0.9852</out>
+                    <amount>157363.3948</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>YAMRUB</from>
+                    <to>BTC</to>
+                    <in>506843.088</in>
+                    <out>1</out>
+                    <amount>4.0774</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>YAMRUB</from>
+                    <to>WEXUSD</to>
+                    <in>62.7762</in>
+                    <out>1</out>
+                    <amount>263.82</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>YAMRUB</from>
+                    <to>PRUSD</to>
+                    <in>62.3288</in>
+                    <out>1</out>
+                    <amount>9386.6949</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PRUSD</from>
+                    <to>PMUSD</to>
+                    <in>1</in>
+                    <out>0.9826</out>
+                    <amount>23870.8115</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PRUSD</from>
+                    <to>PMVUSD</to>
+                    <in>1</in>
+                    <out>0.9826</out>
+                    <amount>23870.81155</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PRUSD</from>
+                    <to>SBERRUB</to>
+                    <in>1</in>
+                    <out>57.7713</out>
+                    <amount>179644.9311</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PRUSD</from>
+                    <to>ACRUB</to>
+                    <in>1</in>
+                    <out>57.7854</out>
+                    <amount>975069.86</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PRUSD</from>
+                    <to>TBRUB</to>
+                    <in>1</in>
+                    <out>57.4658</out>
+                    <amount>403493.57</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PRUSD</from>
+                    <to>BNBRUB</to>
+                    <in>1</in>
+                    <out>59.6325</out>
+                    <amount>87711.7328</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PRUSD</from>
+                    <to>TCSBRUB</to>
+                    <in>1</in>
+                    <out>57.0731</out>
+                    <amount>351796.33</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PRUSD</from>
+                    <to>QWRUB</to>
+                    <in>1</in>
+                    <out>58.9175</out>
+                    <amount>157363.3948</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PRUSD</from>
+                    <to>BTC</to>
+                    <in>8124.202</in>
+                    <out>1</out>
+                    <amount>4.0774</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PRUSD</from>
+                    <to>WEXUSD</to>
+                    <in>1</in>
+                    <out>0.9998</out>
+                    <amount>263.82</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PRUSD</from>
+                    <to>YAMRUB</to>
+                    <in>1</in>
+                    <out>59.171</out>
+                    <amount>446732.4352</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXRUB</from>
+                    <to>PMUSD</to>
+                    <in>61.3289</in>
+                    <out>1</out>
+                    <amount>23870.8115</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXRUB</from>
+                    <to>PMVUSD</to>
+                    <in>61.3289</in>
+                    <out>1</out>
+                    <amount>23870.81155</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXRUB</from>
+                    <to>SBERRUB</to>
+                    <in>1</in>
+                    <out>0.9618</out>
+                    <amount>179644.9311</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXRUB</from>
+                    <to>ACRUB</to>
+                    <in>1</in>
+                    <out>0.9509</out>
+                    <amount>975069.86</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXRUB</from>
+                    <to>TBRUB</to>
+                    <in>1</in>
+                    <out>0.96</out>
+                    <amount>403493.57</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXRUB</from>
+                    <to>BNBRUB</to>
+                    <in>1</in>
+                    <out>1</out>
+                    <amount>87711.7328</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXRUB</from>
+                    <to>TCSBRUB</to>
+                    <in>1</in>
+                    <out>0.9494</out>
+                    <amount>351796.33</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXRUB</from>
+                    <to>QWRUB</to>
+                    <in>1</in>
+                    <out>0.996</out>
+                    <amount>157363.3948</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXRUB</from>
+                    <to>BTC</to>
+                    <in>478542.6621</in>
+                    <out>1</out>
+                    <amount>4.0774</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXRUB</from>
+                    <to>WEXUSD</to>
+                    <in>61.2479</in>
+                    <out>1</out>
+                    <amount>263.82</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXRUB</from>
+                    <to>YAMRUB</to>
+                    <in>1</in>
+                    <out>0.9971</out>
+                    <amount>446732.4352</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXRUB</from>
+                    <to>PRUSD</to>
+                    <in>61.2359</in>
+                    <out>1</out>
+                    <amount>9386.6949</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMUSD</from>
+                    <to>WEXRUB</to>
+                    <in>1</in>
+                    <out>58.3089</out>
+                    <amount>16474.91</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMVUSD</from>
+                    <to>WEXRUB</to>
+                    <in>1</in>
+                    <out>58.3089</out>
+                    <amount>16474.91</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>SBERRUB</from>
+                    <to>WEXRUB</to>
+                    <in>1</in>
+                    <out>0.9427</out>
+                    <amount>16474.91</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ACRUB</from>
+                    <to>WEXRUB</to>
+                    <in>1</in>
+                    <out>0.9409</out>
+                    <amount>16474.91</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>TBRUB</from>
+                    <to>WEXRUB</to>
+                    <in>1</in>
+                    <out>0.9484</out>
+                    <amount>16474.91</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>TCSBRUB</from>
+                    <to>WEXRUB</to>
+                    <in>1</in>
+                    <out>0.9451</out>
+                    <amount>16474.91</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>QWRUB</from>
+                    <to>WEXRUB</to>
+                    <in>1</in>
+                    <out>0.9444</out>
+                    <amount>16474.91</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>BTC</from>
+                    <to>WEXRUB</to>
+                    <in>1</in>
+                    <out>424613.4652</out>
+                    <amount>16474.91</amount>
+                    <minamount>0.005 BTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXUSD</from>
+                    <to>WEXRUB</to>
+                    <in>1</in>
+                    <out>56.2148</out>
+                    <amount>16474.91</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>YAMRUB</from>
+                    <to>WEXRUB</to>
+                    <in>1</in>
+                    <out>0.9371</out>
+                    <amount>16474.91</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PRUSD</from>
+                    <to>WEXRUB</to>
+                    <in>1</in>
+                    <out>58.8919</out>
+                    <amount>16474.91</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ADVCUSD</from>
+                    <to>PMUSD</to>
+                    <in>1</in>
+                    <out>0.9872</out>
+                    <amount>23870.8115</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ADVCUSD</from>
+                    <to>PMVUSD</to>
+                    <in>1</in>
+                    <out>0.9872</out>
+                    <amount>23870.81155</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ADVCUSD</from>
+                    <to>SBERRUB</to>
+                    <in>1</in>
+                    <out>59.1127</out>
+                    <amount>179644.9311</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ADVCUSD</from>
+                    <to>ACRUB</to>
+                    <in>1</in>
+                    <out>59.0909</out>
+                    <amount>975069.86</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ADVCUSD</from>
+                    <to>TBRUB</to>
+                    <in>1</in>
+                    <out>58.4327</out>
+                    <amount>403493.57</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ADVCUSD</from>
+                    <to>BNBRUB</to>
+                    <in>1</in>
+                    <out>59.6325</out>
+                    <amount>87711.7328</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ADVCUSD</from>
+                    <to>TCSBRUB</to>
+                    <in>1</in>
+                    <out>58.3832</out>
+                    <amount>351796.33</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ADVCUSD</from>
+                    <to>QWRUB</to>
+                    <in>1</in>
+                    <out>59.5354</out>
+                    <amount>157363.3948</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ADVCUSD</from>
+                    <to>BTC</to>
+                    <in>8061.7438</in>
+                    <out>1</out>
+                    <amount>4.0774</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ADVCUSD</from>
+                    <to>WEXUSD</to>
+                    <in>1</in>
+                    <out>0.985</out>
+                    <amount>263.82</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ADVCUSD</from>
+                    <to>YAMRUB</to>
+                    <in>1</in>
+                    <out>59.9271</out>
+                    <amount>446732.4352</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ADVCUSD</from>
+                    <to>PRUSD</to>
+                    <in>1</in>
+                    <out>0.9887</out>
+                    <amount>9386.6949</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ADVCUSD</from>
+                    <to>WEXRUB</to>
+                    <in>1</in>
+                    <out>58.001</out>
+                    <amount>16474.91</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMUSD</from>
+                    <to>ADVCUSD</to>
+                    <in>1</in>
+                    <out>0.9949</out>
+                    <amount>11750.31</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMVUSD</from>
+                    <to>ADVCUSD</to>
+                    <in>1</in>
+                    <out>0.9949</out>
+                    <amount>11750.31</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>SBERRUB</from>
+                    <to>ADVCUSD</to>
+                    <in>61.6818</in>
+                    <out>1</out>
+                    <amount>11750.31</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ACRUB</from>
+                    <to>ADVCUSD</to>
+                    <in>62.0354</in>
+                    <out>1</out>
+                    <amount>11750.31</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>TBRUB</from>
+                    <to>ADVCUSD</to>
+                    <in>62.661</in>
+                    <out>1</out>
+                    <amount>11750.31</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                                    <item>
+                    <from>TCSBRUB</from>
+                    <to>ADVCUSD</to>
+                    <in>61.8705</in>
+                    <out>1</out>
+                    <amount>11750.31</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>QWRUB</from>
+                    <to>ADVCUSD</to>
+                    <in>62.9271</in>
+                    <out>1</out>
+                    <amount>11750.31</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>BTC</from>
+                    <to>ADVCUSD</to>
+                    <in>1</in>
+                    <out>7667.5328</out>
+                    <amount>11750.31</amount>
+                    <minamount>0.005 BTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXUSD</from>
+                    <to>ADVCUSD</to>
+                    <in>1</in>
+                    <out>0.989</out>
+                    <amount>11750.31</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>YAMRUB</from>
+                    <to>ADVCUSD</to>
+                    <in>62.7279</in>
+                    <out>1</out>
+                    <amount>11750.31</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PRUSD</from>
+                    <to>ADVCUSD</to>
+                    <in>1</in>
+                    <out>0.9881</out>
+                    <amount>11750.31</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXRUB</from>
+                    <to>ADVCUSD</to>
+                    <in>61.2113</in>
+                    <out>1</out>
+                    <amount>11750.31</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>LTC</from>
+                    <to>PMUSD</to>
+                    <in>1</in>
+                    <out>66.7547</out>
+                    <amount>23870.8115</amount>
+                    <minamount>0.1 LTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>LTC</from>
+                    <to>PMVUSD</to>
+                    <in>1</in>
+                    <out>66.7547</out>
+                    <amount>23870.81155</amount>
+                    <minamount>0.1 LTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>LTC</from>
+                    <to>SBERRUB</to>
+                    <in>1</in>
+                    <out>3748.2102</out>
+                    <amount>179644.9311</amount>
+                    <minamount>0.1 LTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>LTC</from>
+                    <to>ACRUB</to>
+                    <in>1</in>
+                    <out>3813.9829</out>
+                    <amount>975069.86</amount>
+                    <minamount>0.1 LTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>LTC</from>
+                    <to>TBRUB</to>
+                    <in>1</in>
+                    <out>3762.2756</out>
+                    <amount>403493.57</amount>
+                    <minamount>0.1 LTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>LTC</from>
+                    <to>BNBRUB</to>
+                    <in>1</in>
+                    <out>3755.5603</out>
+                    <amount>87711.7328</amount>
+                    <minamount>0.1 LTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>LTC</from>
+                    <to>TCSBRUB</to>
+                    <in>1</in>
+                    <out>3763.9333</out>
+                    <amount>351796.33</amount>
+                    <minamount>0.1 LTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>LTC</from>
+                    <to>QWRUB</to>
+                    <in>1</in>
+                    <out>3893.4532</out>
+                    <amount>157363.3948</amount>
+                    <minamount>0.1 LTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>LTC</from>
+                    <to>BTC</to>
+                    <in>119.0091</in>
+                    <out>1</out>
+                    <amount>4.0774</amount>
+                    <minamount>0.1 LTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>LTC</from>
+                    <to>WEXUSD</to>
+                    <in>1</in>
+                    <out>66.3073</out>
+                    <amount>263.82</amount>
+                    <minamount>0.1 LTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>LTC</from>
+                    <to>YAMRUB</to>
+                    <in>1</in>
+                    <out>3858.2062</out>
+                    <amount>446732.4352</amount>
+                    <minamount>0.1 LTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>LTC</from>
+                    <to>PRUSD</to>
+                    <in>1</in>
+                    <out>66.2861</out>
+                    <amount>9386.6949</amount>
+                    <minamount>0.1 LTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>LTC</from>
+                    <to>WEXRUB</to>
+                    <in>1</in>
+                    <out>3759.9002</out>
+                    <amount>16474.91</amount>
+                    <minamount>0.1 LTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>LTC</from>
+                    <to>ADVCUSD</to>
+                    <in>1</in>
+                    <out>66.8975</out>
+                    <amount>11750.31</amount>
+                    <minamount>0.1 LTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMUSD</from>
+                    <to>LTC</to>
+                    <in>69.4528</in>
+                    <out>1</out>
+                    <amount>12.5871</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMVUSD</from>
+                    <to>LTC</to>
+                    <in>69.4576</in>
+                    <out>1</out>
+                    <amount>12.5871</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>SBERRUB</from>
+                    <to>LTC</to>
+                    <in>4256.4613</in>
+                    <out>1</out>
+                    <amount>12.5871</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ACRUB</from>
+                    <to>LTC</to>
+                    <in>4812.7174</in>
+                    <out>1</out>
+                    <amount>12.5871</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>TBRUB</from>
+                    <to>LTC</to>
+                    <in>4538.2608</in>
+                    <out>1</out>
+                    <amount>12.5871</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                                    <item>
+                    <from>TCSBRUB</from>
+                    <to>LTC</to>
+                    <in>4397.7337</in>
+                    <out>1</out>
+                    <amount>12.5871</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>QWRUB</from>
+                    <to>LTC</to>
+                    <in>4479.821</in>
+                    <out>1</out>
+                    <amount>12.5871</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>BTC</from>
+                    <to>LTC</to>
+                    <in>1</in>
+                    <out>108.8168</out>
+                    <amount>12.5871</amount>
+                    <minamount>0.005 BTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXUSD</from>
+                    <to>LTC</to>
+                    <in>70.5102</in>
+                    <out>1</out>
+                    <amount>12.5871</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>YAMRUB</from>
+                    <to>LTC</to>
+                    <in>4398.1574</in>
+                    <out>1</out>
+                    <amount>12.5871</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PRUSD</from>
+                    <to>LTC</to>
+                    <in>69.9111</in>
+                    <out>1</out>
+                    <amount>12.5871</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXRUB</from>
+                    <to>LTC</to>
+                    <in>4169.7814</in>
+                    <out>1</out>
+                    <amount>12.5871</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ADVCUSD</from>
+                    <to>LTC</to>
+                    <in>69.5477</in>
+                    <out>1</out>
+                    <amount>12.5871</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>CARDRUB</from>
+                    <to>PMUSD</to>
+                    <in>63.2316</in>
+                    <out>1</out>
+                    <amount>23870.8115</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>CARDRUB</from>
+                    <to>PMVUSD</to>
+                    <in>63.2316</in>
+                    <out>1</out>
+                    <amount>23870.81155</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>CARDRUB</from>
+                    <to>QWRUB</to>
+                    <in>1</in>
+                    <out>1.0002</out>
+                    <amount>157363.3948</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>CARDRUB</from>
+                    <to>BTC</to>
+                    <in>515884.618</in>
+                    <out>1</out>
+                    <amount>4.0774</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>CARDRUB</from>
+                    <to>WEXUSD</to>
+                    <in>63.5876</in>
+                    <out>1</out>
+                    <amount>263.82</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>CARDRUB</from>
+                    <to>YAMRUB</to>
+                    <in>1</in>
+                    <out>0.9987</out>
+                    <amount>446732.4352</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>CARDRUB</from>
+                    <to>PRUSD</to>
+                    <in>63.3012</in>
+                    <out>1</out>
+                    <amount>9386.6949</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>CARDRUB</from>
+                    <to>WEXRUB</to>
+                    <in>1</in>
+                    <out>0.9593</out>
+                    <amount>16474.91</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>CARDRUB</from>
+                    <to>ADVCUSD</to>
+                    <in>63.4131</in>
+                    <out>1</out>
+                    <amount>11750.31</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>CARDRUB</from>
+                    <to>LTC</to>
+                    <in>4579.4501</in>
+                    <out>1</out>
+                    <amount>12.5871</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMUSD</from>
+                    <to>CARDRUB</to>
+                    <in>1</in>
+                    <out>57.3698</out>
+                    <amount>217997.6662</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMVUSD</from>
+                    <to>CARDRUB</to>
+                    <in>1</in>
+                    <out>57.3698</out>
+                    <amount>217997.6662</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>QWRUB</from>
+                    <to>CARDRUB</to>
+                    <in>1</in>
+                    <out>0.9305</out>
+                    <amount>217997.6662</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>BTC</from>
+                    <to>CARDRUB</to>
+                    <in>1</in>
+                    <out>434335.8071</out>
+                    <amount>217997.6662</amount>
+                    <minamount>0.005 BTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXUSD</from>
+                    <to>CARDRUB</to>
+                    <in>1</in>
+                    <out>56.1875</out>
+                    <amount>217997.6662</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>YAMRUB</from>
+                    <to>CARDRUB</to>
+                    <in>1</in>
+                    <out>0.9295</out>
+                    <amount>217997.6662</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PRUSD</from>
+                    <to>CARDRUB</to>
+                    <in>1</in>
+                    <out>55.385</out>
+                    <amount>217997.6662</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXRUB</from>
+                    <to>CARDRUB</to>
+                    <in>1</in>
+                    <out>0.9417</out>
+                    <amount>217997.6662</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ADVCUSD</from>
+                    <to>CARDRUB</to>
+                    <in>1</in>
+                    <out>57.0132</out>
+                    <amount>217997.6662</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>LTC</from>
+                    <to>CARDRUB</to>
+                    <in>1</in>
+                    <out>3746.3731</out>
+                    <amount>217997.6662</amount>
+                    <minamount>0.1 LTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ETH</from>
+                    <to>PMUSD</to>
+                    <in>1</in>
+                    <out>323.5047</out>
+                    <amount>23870.8115</amount>
+                    <minamount>0.05 ETH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ETH</from>
+                    <to>PMVUSD</to>
+                    <in>1</in>
+                    <out>323.5047</out>
+                    <amount>23870.81155</amount>
+                    <minamount>0.05 ETH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ETH</from>
+                    <to>SBERRUB</to>
+                    <in>1</in>
+                    <out>18177.3895</out>
+                    <amount>179644.9311</amount>
+                    <minamount>0.05 ETH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ETH</from>
+                    <to>ACRUB</to>
+                    <in>1</in>
+                    <out>18503.0898</out>
+                    <amount>975069.86</amount>
+                    <minamount>0.05 ETH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ETH</from>
+                    <to>TBRUB</to>
+                    <in>1</in>
+                    <out>18358.4661</out>
+                    <amount>403493.57</amount>
+                    <minamount>0.05 ETH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ETH</from>
+                    <to>BNBRUB</to>
+                    <in>1</in>
+                    <out>18487.8803</out>
+                    <amount>87711.7328</amount>
+                    <minamount>0.05 ETH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ETH</from>
+                    <to>TCSBRUB</to>
+                    <in>1</in>
+                    <out>18358.4661</out>
+                    <amount>351796.33</amount>
+                    <minamount>0.05 ETH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ETH</from>
+                    <to>QWRUB</to>
+                    <in>1</in>
+                    <out>18677.3071</out>
+                    <amount>157363.3948</amount>
+                    <minamount>0.05 ETH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ETH</from>
+                    <to>BTC</to>
+                    <in>24.6915</in>
+                    <out>1</out>
+                    <amount>4.0774</amount>
+                    <minamount>0.05 ETH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ETH</from>
+                    <to>WEXUSD</to>
+                    <in>1</in>
+                    <out>325.0403</out>
+                    <amount>263.82</amount>
+                    <minamount>0.05 ETH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ETH</from>
+                    <to>YAMRUB</to>
+                    <in>1</in>
+                    <out>18902.9425</out>
+                    <amount>446732.4352</amount>
+                    <minamount>0.05 ETH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ETH</from>
+                    <to>PRUSD</to>
+                    <in>1</in>
+                    <out>323.1689</out>
+                    <amount>9386.6949</amount>
+                    <minamount>0.05 ETH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ETH</from>
+                    <to>WEXRUB</to>
+                    <in>1</in>
+                    <out>17814.4796</out>
+                    <amount>16474.91</amount>
+                    <minamount>0.05 ETH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ETH</from>
+                    <to>ADVCUSD</to>
+                    <in>1</in>
+                    <out>326.2899</out>
+                    <amount>11750.31</amount>
+                    <minamount>0.05 ETH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ETH</from>
+                    <to>LTC</to>
+                    <in>1</in>
+                    <out>4.6931</out>
+                    <amount>12.5871</amount>
+                    <minamount>0.05 ETH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ETH</from>
+                    <to>CARDRUB</to>
+                    <in>1</in>
+                    <out>18229.0511</out>
+                    <amount>217997.6662</amount>
+                    <minamount>0.05 ETH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMUSD</from>
+                    <to>ETH</to>
+                    <in>337.4782</in>
+                    <out>1</out>
+                    <amount>12.5764</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMVUSD</from>
+                    <to>ETH</to>
+                    <in>337.4782</in>
+                    <out>1</out>
+                    <amount>12.5764</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>SBERRUB</from>
+                    <to>ETH</to>
+                    <in>20819.3316</in>
+                    <out>1</out>
+                    <amount>12.5764</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ACRUB</from>
+                    <to>ETH</to>
+                    <in>21914.7344</in>
+                    <out>1</out>
+                    <amount>12.5764</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>TBRUB</from>
+                    <to>ETH</to>
+                    <in>21646.869</in>
+                    <out>1</out>
+                    <amount>12.5764</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                                    <item>
+                    <from>TCSBRUB</from>
+                    <to>ETH</to>
+                    <in>21635.2685</in>
+                    <out>1</out>
+                    <amount>12.5764</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>QWRUB</from>
+                    <to>ETH</to>
+                    <in>21191.9528</in>
+                    <out>1</out>
+                    <amount>12.5764</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>BTC</from>
+                    <to>ETH</to>
+                    <in>1</in>
+                    <out>23.11</out>
+                    <amount>12.5764</amount>
+                    <minamount>0.005 BTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXUSD</from>
+                    <to>ETH</to>
+                    <in>349.7917</in>
+                    <out>1</out>
+                    <amount>12.5764</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>YAMRUB</from>
+                    <to>ETH</to>
+                    <in>20540.0692</in>
+                    <out>1</out>
+                    <amount>12.5764</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PRUSD</from>
+                    <to>ETH</to>
+                    <in>346.0563</in>
+                    <out>1</out>
+                    <amount>12.5764</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXRUB</from>
+                    <to>ETH</to>
+                    <in>19951.4887</in>
+                    <out>1</out>
+                    <amount>12.5764</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ADVCUSD</from>
+                    <to>ETH</to>
+                    <in>338.544</in>
+                    <out>1</out>
+                    <amount>12.5764</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>LTC</from>
+                    <to>ETH</to>
+                    <in>4.998</in>
+                    <out>1</out>
+                    <amount>12.5764</amount>
+                    <minamount>0.1 LTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>CARDRUB</from>
+                    <to>ETH</to>
+                    <in>21892.8656</in>
+                    <out>1</out>
+                    <amount>12.5764</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>RUSSTRUB</from>
+                    <to>PMUSD</to>
+                    <in>61.7366</in>
+                    <out>1</out>
+                    <amount>23870.8115</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>RUSSTRUB</from>
+                    <to>PMVUSD</to>
+                    <in>61.7366</in>
+                    <out>1</out>
+                    <amount>23870.81155</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>RUSSTRUB</from>
+                    <to>QWRUB</to>
+                    <in>1</in>
+                    <out>1.0009</out>
+                    <amount>157363.3948</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>RUSSTRUB</from>
+                    <to>BTC</to>
+                    <in>523363.436</in>
+                    <out>1</out>
+                    <amount>4.0774</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>RUSSTRUB</from>
+                    <to>WEXUSD</to>
+                    <in>61.577</in>
+                    <out>1</out>
+                    <amount>263.82</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>RUSSTRUB</from>
+                    <to>YAMRUB</to>
+                    <in>1</in>
+                    <out>1.0009</out>
+                    <amount>446732.4352</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>RUSSTRUB</from>
+                    <to>PRUSD</to>
+                    <in>60.9123</in>
+                    <out>1</out>
+                    <amount>9386.6949</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>RUSSTRUB</from>
+                    <to>WEXRUB</to>
+                    <in>1</in>
+                    <out>0.971</out>
+                    <amount>16474.91</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>RUSSTRUB</from>
+                    <to>ADVCUSD</to>
+                    <in>61.8355</in>
+                    <out>1</out>
+                    <amount>11750.31</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>RUSSTRUB</from>
+                    <to>LTC</to>
+                    <in>4490.0313</in>
+                    <out>1</out>
+                    <amount>12.5871</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>RUSSTRUB</from>
+                    <to>ETH</to>
+                    <in>20131.8122</in>
+                    <out>1</out>
+                    <amount>12.5764</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMUSD</from>
+                    <to>RUSSTRUB</to>
+                    <in>1</in>
+                    <out>57.4083</out>
+                    <amount>330828.58</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMVUSD</from>
+                    <to>RUSSTRUB</to>
+                    <in>1</in>
+                    <out>57.4083</out>
+                    <amount>330828.58</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>QWRUB</from>
+                    <to>RUSSTRUB</to>
+                    <in>1</in>
+                    <out>0.948</out>
+                    <amount>330828.58</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>BTC</from>
+                    <to>RUSSTRUB</to>
+                    <in>1</in>
+                    <out>441432.0779</out>
+                    <amount>330828.58</amount>
+                    <minamount>0.005 BTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXUSD</from>
+                    <to>RUSSTRUB</to>
+                    <in>1</in>
+                    <out>56.2148</out>
+                    <amount>330828.58</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>YAMRUB</from>
+                    <to>RUSSTRUB</to>
+                    <in>1</in>
+                    <out>0.9587</out>
+                    <amount>330828.58</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PRUSD</from>
+                    <to>RUSSTRUB</to>
+                    <in>1</in>
+                    <out>56.6527</out>
+                    <amount>330828.58</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXRUB</from>
+                    <to>RUSSTRUB</to>
+                    <in>1</in>
+                    <out>0.9408</out>
+                    <amount>330828.58</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ADVCUSD</from>
+                    <to>RUSSTRUB</to>
+                    <in>1</in>
+                    <out>56.7607</out>
+                    <amount>330828.58</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>LTC</from>
+                    <to>RUSSTRUB</to>
+                    <in>1</in>
+                    <out>3793.5673</out>
+                    <amount>330828.58</amount>
+                    <minamount>0.1 LTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ETH</from>
+                    <to>RUSSTRUB</to>
+                    <in>1</in>
+                    <out>18505.178</out>
+                    <amount>330828.58</amount>
+                    <minamount>0.05 ETH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>DASH</from>
+                    <to>PMUSD</to>
+                    <in>1</in>
+                    <out>408.2282</out>
+                    <amount>23870.8115</amount>
+                    <minamount>0.05 DSH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>DASH</from>
+                    <to>PMVUSD</to>
+                    <in>1</in>
+                    <out>408.2282</out>
+                    <amount>23870.81155</amount>
+                    <minamount>0.05 DSH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>DASH</from>
+                    <to>SBERRUB</to>
+                    <in>1</in>
+                    <out>22870.88</out>
+                    <amount>179644.9311</amount>
+                    <minamount>0.05 DSH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>DASH</from>
+                    <to>ACRUB</to>
+                    <in>1</in>
+                    <out>23144.7529</out>
+                    <amount>975069.86</amount>
+                    <minamount>0.05 DSH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>DASH</from>
+                    <to>TBRUB</to>
+                    <in>1</in>
+                    <out>22941.9788</out>
+                    <amount>403493.57</amount>
+                    <minamount>0.05 DSH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>DASH</from>
+                    <to>TCSBRUB</to>
+                    <in>1</in>
+                    <out>22721.817</out>
+                    <amount>351796.33</amount>
+                    <minamount>0.05 DSH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>DASH</from>
+                    <to>QWRUB</to>
+                    <in>1</in>
+                    <out>23283.3418</out>
+                    <amount>157363.3948</amount>
+                    <minamount>0.05 DSH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>DASH</from>
+                    <to>BTC</to>
+                    <in>19.4563</in>
+                    <out>1</out>
+                    <amount>4.0774</amount>
+                    <minamount>0.05 DSH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>DASH</from>
+                    <to>WEXUSD</to>
+                    <in>1</in>
+                    <out>408.9826</out>
+                    <amount>263.82</amount>
+                    <minamount>0.05 DSH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>DASH</from>
+                    <to>YAMRUB</to>
+                    <in>1</in>
+                    <out>23720.8808</out>
+                    <amount>446732.4352</amount>
+                    <minamount>0.05 DSH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>DASH</from>
+                    <to>PRUSD</to>
+                    <in>1</in>
+                    <out>405.3263</out>
+                    <amount>9386.6949</amount>
+                    <minamount>0.05 DSH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>DASH</from>
+                    <to>WEXRUB</to>
+                    <in>1</in>
+                    <out>22968.6487</out>
+                    <amount>16474.91</amount>
+                    <minamount>0.05 DSH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>DASH</from>
+                    <to>ADVCUSD</to>
+                    <in>1</in>
+                    <out>413.824</out>
+                    <amount>11750.31</amount>
+                    <minamount>0.05 DSH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>DASH</from>
+                    <to>CARDRUB</to>
+                    <in>1</in>
+                    <out>23234.5335</out>
+                    <amount>217997.6662</amount>
+                    <minamount>0.05 DSH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>DASH</from>
+                    <to>RUSSTRUB</to>
+                    <in>1</in>
+                    <out>23017.6393</out>
+                    <amount>330828.58</amount>
+                    <minamount>0.05 DSH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMUSD</from>
+                    <to>DASH</to>
+                    <in>435.1842</in>
+                    <out>1</out>
+                    <amount>46.5311</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMVUSD</from>
+                    <to>DASH</to>
+                    <in>435.1842</in>
+                    <out>1</out>
+                    <amount>46.5311</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>SBERRUB</from>
+                    <to>DASH</to>
+                    <in>26139.8905</in>
+                    <out>1</out>
+                    <amount>46.5311</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ACRUB</from>
+                    <to>DASH</to>
+                    <in>27503.1786</in>
+                    <out>1</out>
+                    <amount>46.5311</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>TBRUB</from>
+                    <to>DASH</to>
+                    <in>26096.9675</in>
+                    <out>1</out>
+                    <amount>46.5311</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>TCSBRUB</from>
+                    <to>DASH</to>
+                    <in>28730.1755</in>
+                    <out>1</out>
+                    <amount>46.5311</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>QWRUB</from>
+                    <to>DASH</to>
+                    <in>26686.7243</in>
+                    <out>1</out>
+                    <amount>46.5311</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXUSD</from>
+                    <to>DASH</to>
+                    <in>445.4796</in>
+                    <out>1</out>
+                    <amount>46.5311</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>YAMRUB</from>
+                    <to>DASH</to>
+                    <in>26894.1229</in>
+                    <out>1</out>
+                    <amount>46.5311</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PRUSD</from>
+                    <to>DASH</to>
+                    <in>440.0948</in>
+                    <out>1</out>
+                    <amount>46.5311</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXRUB</from>
+                    <to>DASH</to>
+                    <in>25378.0114</in>
+                    <out>1</out>
+                    <amount>46.5311</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ADVCUSD</from>
+                    <to>DASH</to>
+                    <in>436.1842</in>
+                    <out>1</out>
+                    <amount>46.5311</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>CARDRUB</from>
+                    <to>DASH</to>
+                    <in>28658.2689</in>
+                    <out>1</out>
+                    <amount>46.5311</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>RUSSTRUB</from>
+                    <to>DASH</to>
+                    <in>25709.6941</in>
+                    <out>1</out>
+                    <amount>46.5311</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PSBRUB</from>
+                    <to>PMUSD</to>
+                    <in>62.5557</in>
+                    <out>1</out>
+                    <amount>23870.8115</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PSBRUB</from>
+                    <to>PMVUSD</to>
+                    <in>62.5557</in>
+                    <out>1</out>
+                    <amount>23870.81155</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PSBRUB</from>
+                    <to>QWRUB</to>
+                    <in>1</in>
+                    <out>0.994</out>
+                    <amount>157363.3948</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PSBRUB</from>
+                    <to>BTC</to>
+                    <in>539126.463</in>
+                    <out>1</out>
+                    <amount>4.0774</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PSBRUB</from>
+                    <to>WEXUSD</to>
+                    <in>64.1223</in>
+                    <out>1</out>
+                    <amount>263.82</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PSBRUB</from>
+                    <to>YAMRUB</to>
+                    <in>1</in>
+                    <out>1.0009</out>
+                    <amount>446732.4352</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PSBRUB</from>
+                    <to>PRUSD</to>
+                    <in>64.2624</in>
+                    <out>1</out>
+                    <amount>9386.6949</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PSBRUB</from>
+                    <to>WEXRUB</to>
+                    <in>1</in>
+                    <out>0.8156</out>
+                    <amount>16474.91</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PSBRUB</from>
+                    <to>ADVCUSD</to>
+                    <in>64.7473</in>
+                    <out>1</out>
+                    <amount>11750.31</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PSBRUB</from>
+                    <to>LTC</to>
+                    <in>4339.2939</in>
+                    <out>1</out>
+                    <amount>12.5871</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PSBRUB</from>
+                    <to>ETH</to>
+                    <in>21585.0183</in>
+                    <out>1</out>
+                    <amount>12.5764</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PSBRUB</from>
+                    <to>DASH</to>
+                    <in>26561.6692</in>
+                    <out>1</out>
+                    <amount>46.5311</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMUSD</from>
+                    <to>PSBRUB</to>
+                    <in>1</in>
+                    <out>58.4099</out>
+                    <amount>859389.75</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMVUSD</from>
+                    <to>PSBRUB</to>
+                    <in>1</in>
+                    <out>58.4099</out>
+                    <amount>859389.75</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>QWRUB</from>
+                    <to>PSBRUB</to>
+                    <in>1</in>
+                    <out>0.936</out>
+                    <amount>859389.75</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>BTC</from>
+                    <to>PSBRUB</to>
+                    <in>1</in>
+                    <out>435201.4715</out>
+                    <amount>859389.75</amount>
+                    <minamount>0.005 BTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXUSD</from>
+                    <to>PSBRUB</to>
+                    <in>1</in>
+                    <out>57.042</out>
+                    <amount>859389.75</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>YAMRUB</from>
+                    <to>PSBRUB</to>
+                    <in>1</in>
+                    <out>0.8974</out>
+                    <amount>859389.75</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PRUSD</from>
+                    <to>PSBRUB</to>
+                    <in>1</in>
+                    <out>57.0487</out>
+                    <amount>859389.75</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXRUB</from>
+                    <to>PSBRUB</to>
+                    <in>1</in>
+                    <out>0.8908</out>
+                    <amount>859389.75</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ADVCUSD</from>
+                    <to>PSBRUB</to>
+                    <in>1</in>
+                    <out>58.0999</out>
+                    <amount>859389.75</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>LTC</from>
+                    <to>PSBRUB</to>
+                    <in>1</in>
+                    <out>3763.9378</out>
+                    <amount>859389.75</amount>
+                    <minamount>0.1 LTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ETH</from>
+                    <to>PSBRUB</to>
+                    <in>1</in>
+                    <out>18529.6465</out>
+                    <amount>859389.75</amount>
+                    <minamount>0.05 ETH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>DASH</from>
+                    <to>PSBRUB</to>
+                    <in>1</in>
+                    <out>23111.584</out>
+                    <amount>859389.75</amount>
+                    <minamount>0.05 DSH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>KUKRUB</from>
+                    <to>PMUSD</to>
+                    <in>64.1129</in>
+                    <out>1</out>
+                    <amount>23870.8115</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>KUKRUB</from>
+                    <to>PMVUSD</to>
+                    <in>64.1129</in>
+                    <out>1</out>
+                    <amount>23870.81155</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>KUKRUB</from>
+                    <to>QWRUB</to>
+                    <in>1</in>
+                    <out>0.9919</out>
+                    <amount>157363.3948</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>KUKRUB</from>
+                    <to>BTC</to>
+                    <in>525307.212</in>
+                    <out>1</out>
+                    <amount>4.0774</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>KUKRUB</from>
+                    <to>WEXUSD</to>
+                    <in>64.0382</in>
+                    <out>1</out>
+                    <amount>263.82</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>KUKRUB</from>
+                    <to>YAMRUB</to>
+                    <in>1</in>
+                    <out>1.0011</out>
+                    <amount>446732.4352</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>KUKRUB</from>
+                    <to>PRUSD</to>
+                    <in>63.4383</in>
+                    <out>1</out>
+                    <amount>9386.6949</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>KUKRUB</from>
+                    <to>WEXRUB</to>
+                    <in>1</in>
+                    <out>0.9018</out>
+                    <amount>16474.91</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>KUKRUB</from>
+                    <to>ADVCUSD</to>
+                    <in>63.4959</in>
+                    <out>1</out>
+                    <amount>11750.31</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>KUKRUB</from>
+                    <to>LTC</to>
+                    <in>4323.2842</in>
+                    <out>1</out>
+                    <amount>12.5871</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>KUKRUB</from>
+                    <to>ETH</to>
+                    <in>21569.773</in>
+                    <out>1</out>
+                    <amount>12.5764</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>KUKRUB</from>
+                    <to>DASH</to>
+                    <in>27882.9041</in>
+                    <out>1</out>
+                    <amount>46.5311</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMUSD</from>
+                    <to>KUKRUB</to>
+                    <in>1</in>
+                    <out>55.3009</out>
+                    <amount>53881.32</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMVUSD</from>
+                    <to>KUKRUB</to>
+                    <in>1</in>
+                    <out>55.3009</out>
+                    <amount>53881.32</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>QWRUB</from>
+                    <to>KUKRUB</to>
+                    <in>1</in>
+                    <out>0.9217</out>
+                    <amount>53881.32</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>BTC</from>
+                    <to>KUKRUB</to>
+                    <in>1</in>
+                    <out>425080.8449</out>
+                    <amount>53881.32</amount>
+                    <minamount>0.005 BTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXUSD</from>
+                    <to>KUKRUB</to>
+                    <in>1</in>
+                    <out>54.0009</out>
+                    <amount>53881.32</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>YAMRUB</from>
+                    <to>KUKRUB</to>
+                    <in>1</in>
+                    <out>0.893</out>
+                    <amount>53881.32</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PRUSD</from>
+                    <to>KUKRUB</to>
+                    <in>1</in>
+                    <out>53.5192</out>
+                    <amount>53881.32</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXRUB</from>
+                    <to>KUKRUB</to>
+                    <in>1</in>
+                    <out>0.8106</out>
+                    <amount>53881.32</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ADVCUSD</from>
+                    <to>KUKRUB</to>
+                    <in>1</in>
+                    <out>57.2134</out>
+                    <amount>53881.32</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>LTC</from>
+                    <to>KUKRUB</to>
+                    <in>1</in>
+                    <out>3698.8082</out>
+                    <amount>53881.32</amount>
+                    <minamount>0.1 LTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ETH</from>
+                    <to>KUKRUB</to>
+                    <in>1</in>
+                    <out>17982.7655</out>
+                    <amount>53881.32</amount>
+                    <minamount>0.05 ETH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>DASH</from>
+                    <to>KUKRUB</to>
+                    <in>1</in>
+                    <out>23334.6683</out>
+                    <amount>53881.32</amount>
+                    <minamount>0.05 DSH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMUSD</from>
+                    <to>PMUSD</to>
+                    <in>1</in>
+                    <out>0.995</out>
+                    <amount>23870.8115</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMUSD</from>
+                    <to>PMVUSD</to>
+                    <in>1</in>
+                    <out>0.995</out>
+                    <amount>23870.81155</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMUSD</from>
+                    <to>SBERRUB</to>
+                    <in>1</in>
+                    <out>58.9537</out>
+                    <amount>179644.9311</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMUSD</from>
+                    <to>ACRUB</to>
+                    <in>1</in>
+                    <out>58.4308</out>
+                    <amount>975069.86</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMUSD</from>
+                    <to>TBRUB</to>
+                    <in>1</in>
+                    <out>59.539</out>
+                    <amount>403493.57</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMUSD</from>
+                    <to>TCSBRUB</to>
+                    <in>1</in>
+                    <out>59.2624</out>
+                    <amount>351796.33</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMUSD</from>
+                    <to>QWRUB</to>
+                    <in>1</in>
+                    <out>59.6294</out>
+                    <amount>157363.3948</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMUSD</from>
+                    <to>BTC</to>
+                    <in>8062.1529</in>
+                    <out>1</out>
+                    <amount>4.0774</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMUSD</from>
+                    <to>WEXUSD</to>
+                    <in>1</in>
+                    <out>1.0051</out>
+                    <amount>263.82</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMUSD</from>
+                    <to>YAMRUB</to>
+                    <in>1</in>
+                    <out>59.6368</out>
+                    <amount>446732.4352</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMUSD</from>
+                    <to>PRUSD</to>
+                    <in>1</in>
+                    <out>1.0005</out>
+                    <amount>9386.6949</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMUSD</from>
+                    <to>WEXRUB</to>
+                    <in>1</in>
+                    <out>59.0421</out>
+                    <amount>16474.91</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMUSD</from>
+                    <to>ADVCUSD</to>
+                    <in>1</in>
+                    <out>1.0083</out>
+                    <amount>11750.31</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMUSD</from>
+                    <to>LTC</to>
+                    <in>69.2173</in>
+                    <out>1</out>
+                    <amount>12.5871</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMUSD</from>
+                    <to>CARDRUB</to>
+                    <in>1</in>
+                    <out>58.6495</out>
+                    <amount>217997.6662</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMUSD</from>
+                    <to>ETH</to>
+                    <in>337.3491</in>
+                    <out>1</out>
+                    <amount>12.5764</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMUSD</from>
+                    <to>RUSSTRUB</to>
+                    <in>1</in>
+                    <out>58.1996</out>
+                    <amount>330828.58</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMUSD</from>
+                    <to>DASH</to>
+                    <in>426.5492</in>
+                    <out>1</out>
+                    <amount>46.5311</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMUSD</from>
+                    <to>PSBRUB</to>
+                    <in>1</in>
+                    <out>57.1874</out>
+                    <amount>859389.75</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMUSD</from>
+                    <to>KUKRUB</to>
+                    <in>1</in>
+                    <out>56.9331</out>
+                    <amount>53881.32</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMUSD</from>
+                    <to>EXMUSD</to>
+                    <in>1</in>
+                    <out>0.9722</out>
+                    <amount>3749.48</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMVUSD</from>
+                    <to>EXMUSD</to>
+                    <in>1</in>
+                    <out>0.9722</out>
+                    <amount>3749.48</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>SBERRUB</from>
+                    <to>EXMUSD</to>
+                    <in>63.9245</in>
+                    <out>1</out>
+                    <amount>3749.48</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ACRUB</from>
+                    <to>EXMUSD</to>
+                    <in>64.7523</in>
+                    <out>1</out>
+                    <amount>3749.48</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>TBRUB</from>
+                    <to>EXMUSD</to>
+                    <in>63.855</in>
+                    <out>1</out>
+                    <amount>3749.48</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>TCSBRUB</from>
+                    <to>EXMUSD</to>
+                    <in>64.7926</in>
+                    <out>1</out>
+                    <amount>3749.48</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>QWRUB</from>
+                    <to>EXMUSD</to>
+                    <in>65.8836</in>
+                    <out>1</out>
+                    <amount>3749.48</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>BTC</from>
+                    <to>EXMUSD</to>
+                    <in>1</in>
+                    <out>7359.0681</out>
+                    <amount>3749.48</amount>
+                    <minamount>0.005 BTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXUSD</from>
+                    <to>EXMUSD</to>
+                    <in>1</in>
+                    <out>0.9483</out>
+                    <amount>3749.48</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>YAMRUB</from>
+                    <to>EXMUSD</to>
+                    <in>63.4927</in>
+                    <out>1</out>
+                    <amount>3749.48</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PRUSD</from>
+                    <to>EXMUSD</to>
+                    <in>1</in>
+                    <out>0.9629</out>
+                    <amount>3749.48</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXRUB</from>
+                    <to>EXMUSD</to>
+                    <in>62.7424</in>
+                    <out>1</out>
+                    <amount>3749.48</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ADVCUSD</from>
+                    <to>EXMUSD</to>
+                    <in>1</in>
+                    <out>0.9609</out>
+                    <amount>3749.48</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>LTC</from>
+                    <to>EXMUSD</to>
+                    <in>1</in>
+                    <out>64.5726</out>
+                    <amount>3749.48</amount>
+                    <minamount>0.1 LTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>CARDRUB</from>
+                    <to>EXMUSD</to>
+                    <in>66.7976</in>
+                    <out>1</out>
+                    <amount>3749.48</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ETH</from>
+                    <to>EXMUSD</to>
+                    <in>1</in>
+                    <out>312.4258</out>
+                    <amount>3749.48</amount>
+                    <minamount>0.05 ETH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>RUSSTRUB</from>
+                    <to>EXMUSD</to>
+                    <in>64.3403</in>
+                    <out>1</out>
+                    <amount>3749.48</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>DASH</from>
+                    <to>EXMUSD</to>
+                    <in>1</in>
+                    <out>403.8734</out>
+                    <amount>3749.48</amount>
+                    <minamount>0.05 DSH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PSBRUB</from>
+                    <to>EXMUSD</to>
+                    <in>65.9227</in>
+                    <out>1</out>
+                    <amount>3749.48</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>KUKRUB</from>
+                    <to>EXMUSD</to>
+                    <in>64.9353</in>
+                    <out>1</out>
+                    <amount>3749.48</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMRUB</from>
+                    <to>PMUSD</to>
+                    <in>60.1983</in>
+                    <out>1</out>
+                    <amount>23870.8115</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMRUB</from>
+                    <to>PMVUSD</to>
+                    <in>60.1983</in>
+                    <out>1</out>
+                    <amount>23870.81155</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMRUB</from>
+                    <to>SBERRUB</to>
+                    <in>1</in>
+                    <out>0.9881</out>
+                    <amount>179644.9311</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMRUB</from>
+                    <to>ACRUB</to>
+                    <in>1</in>
+                    <out>1.001</out>
+                    <amount>975069.86</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMRUB</from>
+                    <to>TBRUB</to>
+                    <in>1</in>
+                    <out>1.0003</out>
+                    <amount>403493.57</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMRUB</from>
+                    <to>TCSBRUB</to>
+                    <in>1</in>
+                    <out>0.998</out>
+                    <amount>351796.33</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMRUB</from>
+                    <to>QWRUB</to>
+                    <in>1</in>
+                    <out>1.0031</out>
+                    <amount>157363.3948</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMRUB</from>
+                    <to>BTC</to>
+                    <in>477726.1276</in>
+                    <out>1</out>
+                    <amount>4.0774</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMRUB</from>
+                    <to>WEXUSD</to>
+                    <in>59.8868</in>
+                    <out>1</out>
+                    <amount>263.82</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMRUB</from>
+                    <to>YAMRUB</to>
+                    <in>1</in>
+                    <out>1.0042</out>
+                    <amount>446732.4352</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMRUB</from>
+                    <to>PRUSD</to>
+                    <in>60.1731</in>
+                    <out>1</out>
+                    <amount>9386.6949</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMRUB</from>
+                    <to>WEXRUB</to>
+                    <in>1</in>
+                    <out>1.001</out>
+                    <amount>16474.91</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMRUB</from>
+                    <to>ADVCUSD</to>
+                    <in>59.9292</in>
+                    <out>1</out>
+                    <amount>11750.31</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMRUB</from>
+                    <to>LTC</to>
+                    <in>3980.8471</in>
+                    <out>1</out>
+                    <amount>12.5871</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMRUB</from>
+                    <to>CARDRUB</to>
+                    <in>1</in>
+                    <out>0.9839</out>
+                    <amount>217997.6662</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMRUB</from>
+                    <to>ETH</to>
+                    <in>19601.2044</in>
+                    <out>1</out>
+                    <amount>12.5764</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMRUB</from>
+                    <to>RUSSTRUB</to>
+                    <in>1</in>
+                    <out>0.996</out>
+                    <amount>330828.58</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMRUB</from>
+                    <to>DASH</to>
+                    <in>24730.3344</in>
+                    <out>1</out>
+                    <amount>46.5311</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMRUB</from>
+                    <to>PSBRUB</to>
+                    <in>1</in>
+                    <out>0.9835</out>
+                    <amount>859389.75</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMRUB</from>
+                    <to>KUKRUB</to>
+                    <in>1</in>
+                    <out>0.96</out>
+                    <amount>53881.32</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMUSD</from>
+                    <to>EXMRUB</to>
+                    <in>1</in>
+                    <out>57.2482</out>
+                    <amount>36653.6</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMVUSD</from>
+                    <to>EXMRUB</to>
+                    <in>1</in>
+                    <out>57.2482</out>
+                    <amount>36653.6</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>SBERRUB</from>
+                    <to>EXMRUB</to>
+                    <in>1</in>
+                    <out>0.9004</out>
+                    <amount>36653.6</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ACRUB</from>
+                    <to>EXMRUB</to>
+                    <in>1</in>
+                    <out>0.902</out>
+                    <amount>36653.6</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>TBRUB</from>
+                    <to>EXMRUB</to>
+                    <in>1</in>
+                    <out>0.918</out>
+                    <amount>36653.6</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>TCSBRUB</from>
+                    <to>EXMRUB</to>
+                    <in>1</in>
+                    <out>0.9153</out>
+                    <amount>36653.6</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>QWRUB</from>
+                    <to>EXMRUB</to>
+                    <in>1</in>
+                    <out>0.8589</out>
+                    <amount>36653.6</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>BTC</from>
+                    <to>EXMRUB</to>
+                    <in>1</in>
+                    <out>421270.2112</out>
+                    <amount>36653.6</amount>
+                    <minamount>0.005 BTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXUSD</from>
+                    <to>EXMRUB</to>
+                    <in>1</in>
+                    <out>54.3006</out>
+                    <amount>36653.6</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>YAMRUB</from>
+                    <to>EXMRUB</to>
+                    <in>1</in>
+                    <out>0.9151</out>
+                    <amount>36653.6</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PRUSD</from>
+                    <to>EXMRUB</to>
+                    <in>1</in>
+                    <out>54.0166</out>
+                    <amount>36653.6</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXRUB</from>
+                    <to>EXMRUB</to>
+                    <in>1</in>
+                    <out>0.9122</out>
+                    <amount>36653.6</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ADVCUSD</from>
+                    <to>EXMRUB</to>
+                    <in>1</in>
+                    <out>55.5568</out>
+                    <amount>36653.6</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>LTC</from>
+                    <to>EXMRUB</to>
+                    <in>1</in>
+                    <out>3634.163</out>
+                    <amount>36653.6</amount>
+                    <minamount>0.1 LTC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>CARDRUB</from>
+                    <to>EXMRUB</to>
+                    <in>1</in>
+                    <out>0.9167</out>
+                    <amount>36653.6</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ETH</from>
+                    <to>EXMRUB</to>
+                    <in>1</in>
+                    <out>18100.855</out>
+                    <amount>36653.6</amount>
+                    <minamount>0.05 ETH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>RUSSTRUB</from>
+                    <to>EXMRUB</to>
+                    <in>1</in>
+                    <out>0.9334</out>
+                    <amount>36653.6</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>DASH</from>
+                    <to>EXMRUB</to>
+                    <in>1</in>
+                    <out>22201.9734</out>
+                    <amount>36653.6</amount>
+                    <minamount>0.05 DSH</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PSBRUB</from>
+                    <to>EXMRUB</to>
+                    <in>1</in>
+                    <out>0.8106</out>
+                    <amount>36653.6</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>KUKRUB</from>
+                    <to>EXMRUB</to>
+                    <in>1</in>
+                    <out>0.8912</out>
+                    <amount>36653.6</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ZEC</from>
+                    <to>PMUSD</to>
+                    <in>1</in>
+                    <out>281.6984</out>
+                    <amount>23870.8115</amount>
+                    <minamount>0.05 ZEC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ZEC</from>
+                    <to>PMVUSD</to>
+                    <in>1</in>
+                    <out>281.6984</out>
+                    <amount>23870.81155</amount>
+                    <minamount>0.05 ZEC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ZEC</from>
+                    <to>SBERRUB</to>
+                    <in>1</in>
+                    <out>15728.3026</out>
+                    <amount>179644.9311</amount>
+                    <minamount>0.05 ZEC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ZEC</from>
+                    <to>ACRUB</to>
+                    <in>1</in>
+                    <out>15984.1018</out>
+                    <amount>975069.86</amount>
+                    <minamount>0.05 ZEC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ZEC</from>
+                    <to>TBRUB</to>
+                    <in>1</in>
+                    <out>16081.2535</out>
+                    <amount>403493.57</amount>
+                    <minamount>0.05 ZEC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ZEC</from>
+                    <to>TCSBRUB</to>
+                    <in>1</in>
+                    <out>15882.3942</out>
+                    <amount>351796.33</amount>
+                    <minamount>0.05 ZEC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ZEC</from>
+                    <to>QWRUB</to>
+                    <in>1</in>
+                    <out>16079.1733</out>
+                    <amount>157363.3948</amount>
+                    <minamount>0.05 ZEC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ZEC</from>
+                    <to>WEXUSD</to>
+                    <in>1</in>
+                    <out>273.8531</out>
+                    <amount>263.82</amount>
+                    <minamount>0.05 ZEC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ZEC</from>
+                    <to>YAMRUB</to>
+                    <in>1</in>
+                    <out>16370.2771</out>
+                    <amount>446732.4352</amount>
+                    <minamount>0.05 ZEC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ZEC</from>
+                    <to>PRUSD</to>
+                    <in>1</in>
+                    <out>282.4857</out>
+                    <amount>9386.6949</amount>
+                    <minamount>0.05 ZEC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ZEC</from>
+                    <to>WEXRUB</to>
+                    <in>1</in>
+                    <out>15841.0822</out>
+                    <amount>16474.91</amount>
+                    <minamount>0.05 ZEC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ZEC</from>
+                    <to>ADVCUSD</to>
+                    <in>1</in>
+                    <out>281.4653</out>
+                    <amount>11750.31</amount>
+                    <minamount>0.05 ZEC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ZEC</from>
+                    <to>CARDRUB</to>
+                    <in>1</in>
+                    <out>15823.6336</out>
+                    <amount>217997.6662</amount>
+                    <minamount>0.05 ZEC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ZEC</from>
+                    <to>RUSSTRUB</to>
+                    <in>1</in>
+                    <out>16042.5718</out>
+                    <amount>330828.58</amount>
+                    <minamount>0.05 ZEC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ZEC</from>
+                    <to>PSBRUB</to>
+                    <in>1</in>
+                    <out>15591.9793</out>
+                    <amount>859389.75</amount>
+                    <minamount>0.05 ZEC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ZEC</from>
+                    <to>KUKRUB</to>
+                    <in>1</in>
+                    <out>14907.0406</out>
+                    <amount>53881.32</amount>
+                    <minamount>0.05 ZEC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ZEC</from>
+                    <to>EXMUSD</to>
+                    <in>1</in>
+                    <out>270.7856</out>
+                    <amount>3749.48</amount>
+                    <minamount>0.05 ZEC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ZEC</from>
+                    <to>EXMRUB</to>
+                    <in>1</in>
+                    <out>14386.3797</out>
+                    <amount>36653.6</amount>
+                    <minamount>0.05 ZEC</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMUSD</from>
+                    <to>ZEC</to>
+                    <in>297.2736</in>
+                    <out>1</out>
+                    <amount>3.5454</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PMVUSD</from>
+                    <to>ZEC</to>
+                    <in>297.2736</in>
+                    <out>1</out>
+                    <amount>3.5454</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>SBERRUB</from>
+                    <to>ZEC</to>
+                    <in>18293.0067</in>
+                    <out>1</out>
+                    <amount>3.5454</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ACRUB</from>
+                    <to>ZEC</to>
+                    <in>18779.2446</in>
+                    <out>1</out>
+                    <amount>3.5454</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>TBRUB</from>
+                    <to>ZEC</to>
+                    <in>17860.8668</in>
+                    <out>1</out>
+                    <amount>3.5454</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>TCSBRUB</from>
+                    <to>ZEC</to>
+                    <in>18662.0402</in>
+                    <out>1</out>
+                    <amount>3.5454</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>QWRUB</from>
+                    <to>ZEC</to>
+                    <in>18158.4303</in>
+                    <out>1</out>
+                    <amount>3.5454</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXUSD</from>
+                    <to>ZEC</to>
+                    <in>307.3038</in>
+                    <out>1</out>
+                    <amount>3.5454</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>YAMRUB</from>
+                    <to>ZEC</to>
+                    <in>18561.9499</in>
+                    <out>1</out>
+                    <amount>3.5454</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PRUSD</from>
+                    <to>ZEC</to>
+                    <in>297.2817</in>
+                    <out>1</out>
+                    <amount>3.5454</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>WEXRUB</from>
+                    <to>ZEC</to>
+                    <in>19121.6561</in>
+                    <out>1</out>
+                    <amount>3.5454</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>ADVCUSD</from>
+                    <to>ZEC</to>
+                    <in>307.972</in>
+                    <out>1</out>
+                    <amount>3.5454</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>CARDRUB</from>
+                    <to>ZEC</to>
+                    <in>18398.3988</in>
+                    <out>1</out>
+                    <amount>3.5454</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>RUSSTRUB</from>
+                    <to>ZEC</to>
+                    <in>17684.6525</in>
+                    <out>1</out>
+                    <amount>3.5454</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>PSBRUB</from>
+                    <to>ZEC</to>
+                    <in>17575.7103</in>
+                    <out>1</out>
+                    <amount>3.5454</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>KUKRUB</from>
+                    <to>ZEC</to>
+                    <in>21101.3033</in>
+                    <out>1</out>
+                    <amount>3.5454</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMUSD</from>
+                    <to>ZEC</to>
+                    <in>294.4779</in>
+                    <out>1</out>
+                    <amount>3.5454</amount>
+                    <minamount>5 USD</minamount>
+                    <param>manual</param>
+                </item>
+                                                <item>
+                    <from>EXMRUB</from>
+                    <to>ZEC</to>
+                    <in>17102.8076</in>
+                    <out>1</out>
+                    <amount>3.5454</amount>
+                    <minamount>300 RUB</minamount>
+                    <param>manual</param>
+                </item>
+                        </rates>

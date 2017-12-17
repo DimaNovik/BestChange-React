@@ -1,0 +1,147 @@
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #69d2e7;
+    font-family: "OpenSans", sans-serif;
+    line-height: 1.5;
+}
+
+h1, h2,  p {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.visually-hidden {
+    visibility: hidden;
+    opacity: 0;
+    position: absolute;
+}
+
+.header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-weight: 300;
+    color: #fa6900;
+    box-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+    text-transform: uppercase;
+ }
+
+.content_area {
+    display: flex;
+    justify-content: space-between;
+}
+
+.content_left {
+    width:50%;
+    padding: 10px 15px;
+    margin-right: 15px;
+    box-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+    background-color: #fff;
+    text-align: center;
+}
+
+.content_left .content_list_area {
+    display: flex;
+    justify-content: space-around;
+}
+
+.content_left .content_list_area .content_list_item {
+    margin-top: 15px;
+}
+
+.content_left .content_list_area .content_list_item:nth-child(1) {
+    margin-right:5px;
+}
+
+.content_list_item .currency-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.content_list_item .currency-list li {
+    position: relative;
+    margin-bottom: 5px;
+    z-index: 1;
+
+}
+.content_list_item .currency-list li:last-child {
+    margin-bottom: 0;
+}
+
+.content_list_item .currency-list li a {
+    display: block;
+    padding: 10px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #000;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: #69d2e7;
+    transition: background-color 0.4s;
+}
+
+.content_list_item .currency-list li a:hover {
+    background-color: #fa6900;
+    color: #fff;
+}
+
+.content_list_item .currency-list .currency-active {
+    background-color: #fa6900;
+    color: #fff;
+}
+
+.content_list_item:nth-child(1) .currency-list li a:hover::after,
+.content_list_item:nth-child(1) .currency-list li .currency-active::after {
+    content: '';
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 13px;
+    right: -4px;
+    background-color: #fa6900;
+    transform: rotate(45deg);
+    z-index: -1;
+}
+
+.content_list_item:nth-child(2) .currency-list li a:hover::before,
+.content_list_item:nth-child(2) .currency-list li .currency-active::before {
+    content: '';
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 13px;
+    left: -4px;
+    background-color: #fa6900;
+    transform: rotate(45deg);
+    z-index: -1;
+}
+
+
+.content_right {
+    padding: 10px 15px;
+    box-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+    background-color: #fff;
+}
+
+@media screen and (max-width: 720px) {
+    .content_area {
+        flex-wrap: wrap;
+    }
+
+    .content_left {
+        width:100%;
+        margin-right: 0;
+    }
+}
